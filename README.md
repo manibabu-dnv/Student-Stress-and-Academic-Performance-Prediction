@@ -7,18 +7,18 @@ Implemented using R, it includes models such as:
 - **Decision Tree**
 - **Artificial Neural Network (ANN)**
 
-project_predict/
-├── 01 knn.R                          # K-Nearest Neighbors implementation
-├── 02 naive bayes.R                 # Naive Bayes implementation
-├── 03 Decision Tree project.R       # Decision Tree implementation
-├── 04 ANN project.R                 # Artificial Neural Network implementation
-├── student_lifestyle_dataset.csv   # Dataset used for prediction
-├── 🚀 Journey into Machine Learning Ex.txt  # Exploratory notes or explanation
-└── img/
-    ├── ann.png
-    ├── ann img.png
-    ├── decision tree.png
-    └── decision tree img.png
+project_predict/<br>
+├── 01 knn.R                          # K-Nearest Neighbors implementation<br>
+├── 02 naive bayes.R                 # Naive Bayes implementation<br>
+├── 03 Decision Tree project.R       # Decision Tree implementation<br>
+├── 04 ANN project.R                 # Artificial Neural Network implementation<br>
+├── student_lifestyle_dataset.csv   # Dataset used for prediction<br>
+├── 🚀 Journey into Machine Learning Ex.txt  # Exploratory notes or explanation<br>
+└── img/<br>
+    ├── ann.png<br>
+    ├── ann img.png<br>
+    ├── decision tree.png<br>
+    └── decision tree img.png<br>
 
 The project aims to compare these models' performances and provide visual insights into their behavior and predictions.
 ---
