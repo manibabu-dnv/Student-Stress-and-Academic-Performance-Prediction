@@ -1,0 +1,39 @@
+🚀 Journey into Machine Learning: Exploring Student Lifestyle Data 📊
+
+I recently delved into the fascinating world of machine learning, utilizing the student lifestyle dataset to uncover insights and achieve impressive results. Here's a summary of the algorithms I applied and the outcomes:
+
+🔍 k-Nearest Neighbors (k-NN) Algorithm
+
+◉ Accuracy: 88.33%
+
+◉ Highlights: Successfully classified stress levels based on various lifestyle factors. The k-NN model provided a robust understanding of how different activities impact student stress.
+
+🧠 Artificial Neural Networks (ANN)
+
+◉ Accuracy: Approximately 90% (with some adjustments and conversions)
+
+◉ Highlights: Implemented a neural network with multiple hidden layers, capturing complex patterns and interactions in the data. The ANN model excelled in predicting GPA and categorizing stress levels.
+
+🌳 Decision Tree
+
+◉ Accuracy: 85%
+
+◉ Highlights: Utilized a decision tree to visualize and interpret the decision-making process. This model was particularly effective in identifying key factors influencing stress levels and academic performance.
+
+🤖 Naive Bayes
+
+◉ Accuracy: 80%
+
+◉ Highlights: Applied Naive Bayes for its simplicity and effectiveness in classification tasks. Despite the strong independence assumption, the model performed well in classifying stress levels.
+
+🔍 Key Takeaways:
+
+◉ Normalization: Normalizing the data played a crucial role in improving model performance across various algorithms.
+
+◉ Data Splitting: Ensured a 70-30 split for training and testing data to evaluate model accuracy fairly.
+
+◉ Model Evaluation: Used confusion matrices and accuracy metrics to assess model performance comprehensively.
+
+📈 Next Steps: Continuing to refine these models, experiment with additional datasets, and explore advanced techniques such as ensemble learning and hyperparameter tuning. Excited to see where this journey into machine learning will take me next!
+
+#MachineLearning #DataScience #ArtificialIntelligence #StudentLife #kNN #ANN #DecisionTree #NaiveBayes #DataAnalysis #AI #TechInnovation
