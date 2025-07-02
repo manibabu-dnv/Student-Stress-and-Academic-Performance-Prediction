@@ -15,12 +15,12 @@ project_predict/<br>
 ├── student_lifestyle_dataset.csv   # Dataset used for prediction<br>
 ├── 🚀 Journey into Machine Learning Ex.txt  # Exploratory notes or explanation<br>
 └── img/<br>
-    ├── ann.png<br>
-    ├── ann img.png<br>
-    ├── decision tree.png<br>
-    └── decision tree img.png<br>
+|   ├── ann.png<br>
+|   ├── ann img.png<br>
+|   ├── decision tree.png<br>
+|   └── decision tree img.png<br>
 
-The project aims to compare these models' performances and provide visual insights into their behavior and predictions.
+The project aims to compare the performance of these models and provide visual insights into their behavior and predictions.
 ---
 
 ## 📂 Files Included
